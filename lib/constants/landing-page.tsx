@@ -1,5 +1,5 @@
 import { Sparkles, Layers, FileText, Share2 } from "lucide-react"
-import { Feature, Step, Testimonial } from "@/types/landing"
+import { Feature, Step, Testimonial } from "types/landing"
 
 export const features: Feature[] = [
   {
